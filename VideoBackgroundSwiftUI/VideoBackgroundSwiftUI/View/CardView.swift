@@ -13,7 +13,7 @@ struct CardView: View {
     var body: some View {
         VStack{
             
-
+            // No Images are Used 
             Image(card.image)
                 .resizable()
                 .frame(width: 400, height: 400)
